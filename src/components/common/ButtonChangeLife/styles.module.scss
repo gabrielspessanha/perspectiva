@@ -1,0 +1,13 @@
+.Button {
+  border: none;
+  padding: 1rem 3rem;
+  font-size: 1.2rem;
+  color: white;
+  background-color: #eb7b3a;
+  border-radius: 0.2rem;
+  border-bottom: 0.4rem solid #cf5d1b;
+
+  &:hover {
+    background-color: rgb(223, 113, 48);
+  }
+}

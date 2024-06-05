@@ -1,0 +1,58 @@
+.content {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  p {
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.8rem;
+    color: rgb(242, 118, 46);
+    font-weight: 700;
+  }
+}
+
+.doubtContainer {
+  width: 30rem;
+  margin-top: 1rem;
+}
+
+.doubt {
+  background-color: rgb(56, 173, 166);
+  color: white;
+  width: 100%;
+  p {
+    text-align: start;
+  }
+
+  svg {
+    color: white;
+  }
+
+  .question p {
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+
+  :focus p {
+    color: black;
+  }
+  :focus svg {
+    color: black;
+  }
+
+  .answer p {
+    margin-top: -1rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 540px) {
+  .doubtContainer {
+    width: 24rem;
+  }
+}

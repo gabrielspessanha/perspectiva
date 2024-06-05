@@ -1,0 +1,17 @@
+.slide {
+  max-width: 100%;
+}
+
+.swiperSlide {
+  display: flex;
+  justify-content: center;
+}
+
+.prevButton,
+.nextButton {
+  background-color: rgb(56, 173, 166);
+  border-radius: 40rem;
+  height: 3rem;
+  width: 3rem;
+  margin-top: 50%;
+}
