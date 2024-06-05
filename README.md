@@ -29,7 +29,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 ## Autor
 
-Gabriel Santos Pessanha - [@seu-usuario-github](https://github.com/seu-usuario-github)
+Gabriel Santos Pessanha - https://github.com/gabrielspessanha/
 
 ## Licença
 
